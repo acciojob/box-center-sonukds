@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.center-box{
+	background-color:lightblue;
+	color:purple;
+	height:200px;
+	width: 200px;
+	border:solid 2px black;
+	 display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.center-text{
+	text-align:center;
+	
+}
